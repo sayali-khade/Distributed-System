@@ -1,0 +1,1212 @@
+hckdshkicshki d
+\ ghdnyte
+nt
+rn
+ym 
+hf
+ jhfy
+ j
+hjf 
+jy
+ jf
+ 
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:40 GMT
+Content-Type:	text/plain
+Content-Length:	6
+Message:	gunnyt
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:18 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:23 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:27 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:40 GMT
+Content-Type:	text/plain
+Content-Length:	6
+Message:	GLOBAL_COMMIT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:18 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:23 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:27 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:44:01 GMT
+Content-Type:	text/plain
+Content-Length:	4
+Message:	bbye
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:23 GMT
+Content-Type:	text/plain
+Message:	VOTE_ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:44:01 GMT
+Content-Type:	text/plain
+Content-Length:	4
+Message:	GLOBAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:23 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:18 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:27 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:44:17 GMT
+Content-Type:	text/plain
+Content-Length:	3
+Message:	cya
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:18 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:27 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:43:23 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:47:32 GMT
+Content-Type:	text/plain
+Content-Length:	4
+Message:	bbye
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:47:18 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:47:22 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:47:26 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:17 GMT
+Content-Type:	text/plain
+Content-Length:	13
+Message:	bbbye you all
+VOTE_REQUEST
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:24 GMT
+Content-Type:	text/plain
+Content-Length:	0
+Message:	
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:48:59 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:09 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:05 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:05 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:49:09 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:48:59 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:50:33 GMT
+Content-Type:	text/plain
+Content-Length:	3
+Message:	yes
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:50:17 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:50:07 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 07:50:23 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:03:18 GMT
+Content-Type:	text/plain
+Content-Length:	18
+Message:	desparately need A
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:02:46 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:02:52 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:02:58 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:06:37 GMT
+Content-Type:	text/plain
+Content-Length:	7
+Message:	bbyefff
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:06:16 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:06:25 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:06:20 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:19:06 GMT
+Content-Type:	text/plain
+Content-Length:	3
+Message:	hey
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:18:20 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:18:16 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:18:26 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:24:15 GMT
+Content-Type:	text/plain
+Content-Length:	3
+Message:	bye
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:23:55 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:24:00 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:23:50 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:34:24 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	bbbye
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:34:02 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:34:07 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:34:02 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:34:13 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:36:35 GMT
+Content-Type:	text/plain
+Content-Length:	8
+Message:	hyeee...
+VOTE_REQUEST
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:36:21 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:36:13 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:36:13 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 08:35:57 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:16:13 GMT
+Content-Type:	text/plain
+Content-Length:	28
+Message:	babanrao strikes again...!!!
+VOTE_REQUEST
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:13:17 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:13:05 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:13:05 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:13:11 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:30:02 GMT
+Content-Type:	text/plain
+Content-Length:	11
+Message:	pappu pager
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:28:36 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:28:48 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:28:48 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:28:55 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:28:55 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:52 GMT
+Content-Type:	text/plain
+Content-Length:	12
+Message:	madar bhagat
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:27 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:32 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:38 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:38 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 09:32:32 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 17:55:53 GMT
+Content-Type:	text/plain
+Content-Length:	7
+Message:	yo dude
+VOTE_REQUEST
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 17:55:37 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 17:55:32 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 17:55:32 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 17:55:27 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:01:52 GMT
+Content-Type:	text/plain
+Content-Length:	6
+Message:	lets c
+VOTE_REQUEST
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:01:43 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:01:31 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:01:31 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:01:37 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:08:51 GMT
+Content-Type:	text/plain
+Content-Length:	2
+Message:	yo
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:08:24 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:08:30 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:08:18 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:12:09 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	yjjjj
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:44 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:44 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:50 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:50 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:56 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 18:11:56 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:03 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	test1
+VOTE_REQUEST
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	VOTE_COMMIT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:03 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	GLOBAL_COMMIT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_COMMIT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:22 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	test2
+VOTE_REQUEST
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	VOTE_ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:22 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	GLOBAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	GLOBAL_ABORT
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:34 GMT
+Content-Type:	text/plain
+Content-Length:	5
+Message:	test3
+VOTE_REQUEST
+
+
+
+ client0 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:40:34 GMT
+Content-Type:	text/plain
+Content-Length:	0
+Message:	
+VOTE_REQUEST
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client2 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:36 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client2 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client1 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:31 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	NEED_DECISION
+
+
+
+ client3 : 
+POST /path/ChatClient/ HTTP/1.1 200 OK
+Date:	Mon, 02 Apr 2018 22:39:42 GMT
+Content-Type:	text/plain
+Message:	ABORT
+
+
+
+ client1 : LOCAL_ABORT
+
+
+
+ client3 : LOCAL_ABORT
+
+
+
+ client2 : LOCAL_ABORT
+
+
